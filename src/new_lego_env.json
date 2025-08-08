@@ -1,0 +1,26 @@
+{
+    "B2": {
+        "black": 1,
+        "blue": 1,
+        "green": 1,
+        "purple": 1,
+        "red": 1,
+        "yellow": 1
+    },
+    "B3": {
+        "black": 0,
+        "blue": 0,
+        "green": 0,
+        "purple": 0,
+        "red": 0,
+        "yellow": 0
+    },
+    "B12": {
+        "black": 0,
+        "blue": 0,
+        "green": 0,
+        "purple": 0,
+        "red": 0,
+        "yellow": 0
+    }
+}
