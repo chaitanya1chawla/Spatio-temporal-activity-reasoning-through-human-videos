@@ -8,5 +8,6 @@ logs/
 *.log
 .vscode/
 
+**/lib/
 **/site-packages/
 *.so
