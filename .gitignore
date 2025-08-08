@@ -7,3 +7,6 @@ logs/
 *.swp
 *.log
 .vscode/
+
+**/site-packages/
+*.so
